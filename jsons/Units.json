@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fleet Admiral",
+    "unitType": "Civilian Water",
+    "movement": 8,
+    "uniques": [
+      "Can instantly construct a [Naval Base] improvement <by consuming this unit>",
+      "Is part of Great Person group [Admiral]",
+      "[This Unit] gets a name from the [Admiral] group",
+      "Great Person - [War]",
+      "Unbuildable",
+      "Uncapturable"
+    ]
+  }
+]
